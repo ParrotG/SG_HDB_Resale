@@ -1,0 +1,18 @@
+[project]
+name = "sg-hdb-resale"
+version = "0.1.0"
+description = "Exploratory analysis of Singapore HDB resale transactions through 2025"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "pandas>=2.2,<3",
+    "numpy>=2,<3",
+    "matplotlib>=3.9,<4",
+    "seaborn>=0.13,<0.14",
+    "scipy>=1.14,<2",
+    "requests>=2.32,<3",
+    "ipykernel>=6,<7",
+    "jupyterlab>=4,<5",
+]
+
+[dependency-groups]
+dev = ["nbclient>=0.10,<0.11", "nbformat>=5.10,<6", "pypdf>=5,<7"]
