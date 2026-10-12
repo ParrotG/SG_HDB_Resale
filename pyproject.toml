@@ -13,6 +13,7 @@ dependencies = [
     "ipykernel>=6,<7",
     "jupyterlab>=4,<5",
     "geopandas>=1.1,<2",
+    "statsmodels>=0.14,<0.16",
 ]
 
 [dependency-groups]
