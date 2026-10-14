@@ -1,0 +1,44 @@
+{
+  "source_rows": 222066,
+  "analysis_rows": 221938,
+  "test_rows": 25022,
+  "source_sha256": "af2ed6574d542771426bf2236c122470d64fe9841ba8bd02bfb72e8a949651b1",
+  "selected_time_trend": "linear",
+  "address_coefficient": 0.38248244696298916,
+  "smearing_B3": 1.0055692925565818,
+  "smearing_B4": 1.0045147720094527,
+  "reconstruction_max_abs_error": 5.5289973988070784e-15,
+  "monthly_deterioration": {
+    "BUKIT BATOK": 12,
+    "TAMPINES": 12
+  },
+  "full_integrated_notebook_rerun": true,
+  "code_cells_executed": 33,
+  "source_commit": "722b21ccce794800bcccef25ec4316ca4c09ac7f",
+  "python_version": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "packages": {
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "scipy": "1.17.1",
+    "statsmodels": "0.15.0",
+    "patsy": "1.0.3",
+    "matplotlib": "3.11.2",
+    "seaborn": "0.13.2",
+    "geopandas": "1.2.0"
+  },
+  "upstream_expected_MAE": [
+    59792.189,
+    59794.424,
+    56987.795,
+    47230.855,
+    46308.805
+  ],
+  "upstream_reproduced_MAE": [
+    59792.18862096135,
+    59794.424360260615,
+    56987.7954090392,
+    47230.85506021261,
+    46308.80489490206
+  ],
+  "upstream_MAE_reproduced_within_SGD": 0.05
+}
