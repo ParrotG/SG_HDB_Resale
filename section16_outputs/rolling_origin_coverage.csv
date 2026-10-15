@@ -1,0 +1,5 @@
+test_year,train_rows,test_rows_available,test_rows_dropped,test_rows_evaluated,dropped_pct
+2022,96156,26715,5,26710,0.018716077110237695
+2023,122871,25724,0,25724,0.0
+2024,148595,27812,0,27812,0.0
+2025,176407,25022,0,25022,0.0
