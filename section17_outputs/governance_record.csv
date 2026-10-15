@@ -1,0 +1,12 @@
+Field,Value
+Source,"HDB resale flat prices, data.gov.sg dataset d_8b84c4ee58e3cfc0ece0d773c8ca6abc"
+Source URL,https://data.gov.sg/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view
+Licence,"Singapore Open Data Licence v1.0 (https://data.gov.sg/open-data-licence); attribution required, no warranty of accuracy, publisher may revise"
+Retrieved at,2026-10-14T19:02:17.962894+08:00
+Snapshot window,2017-01 to 2025-12
+Snapshot rows,"222,066"
+Integrity control,"SHA-256 af2ed6574d542771..., asserted in Section 2 on every run"
+Refresh policy,"REFRESH_DATA is False by default. The publisher revises historical records, so a refresh changes the test period and invalidates the fixed figures quoted in Sections 15 to 16; a refresh therefore requires re-running and re-reading those sections, not only re-executing them."
+Retention,The raw snapshot and per-record processed outputs are kept out of version control; only aggregate tables and figures are committed.
+Personal data,"No direct identifiers are present. Quasi-identifiers are released at reduced precision by the publisher, and the residual uniqueness is quantified above."
+Permitted use here,"Aggregate description and prediction. Records are not linked to individuals, addresses are not geocoded to units, and no attempt is made to reconstruct withheld precision."
