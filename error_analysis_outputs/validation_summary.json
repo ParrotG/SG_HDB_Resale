@@ -4,10 +4,10 @@
   "test_rows": 25009,
   "source_sha256": "af2ed6574d542771426bf2236c122470d64fe9841ba8bd02bfb72e8a949651b1",
   "selected_time_trend": "linear",
-  "address_coefficient": 0.3827644416681194,
-  "smearing_B3": 1.005570096706021,
-  "smearing_B4": 1.0045130767681543,
-  "reconstruction_max_abs_error": 5.023759186428833e-15,
+  "address_coefficient": 0.38276444166813506,
+  "smearing_B3": 1.0055700967060195,
+  "smearing_B4": 1.0045130767681534,
+  "reconstruction_max_abs_error": 6.099287741534454e-15,
   "monthly_deterioration": {
     "BUKIT BATOK": 12,
     "TAMPINES": 12

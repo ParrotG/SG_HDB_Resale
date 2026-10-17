@@ -2,7 +2,7 @@ Field,Value
 Source,"HDB resale flat prices, data.gov.sg dataset d_8b84c4ee58e3cfc0ece0d773c8ca6abc"
 Source URL,https://data.gov.sg/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view
 Licence,"Singapore Open Data Licence v1.0 (https://data.gov.sg/open-data-licence); attribution required, no warranty of accuracy, publisher may revise"
-Retrieved at,2026-10-11T21:23:29.895039+08:00
+Retrieved at,2026-10-14T19:02:17.962894+08:00
 Snapshot window,2017-01 to 2025-12
 Snapshot rows,"222,066"
 Integrity control,"SHA-256 af2ed6574d542771..., asserted in Section 2 on every run"
